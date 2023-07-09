@@ -1,4 +1,4 @@
-// A.JS
+
 let todoele = document.getElementById("taskinfo")
 let tasklist = document.getElementById("tasklist")
 
